@@ -1,0 +1,5 @@
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
