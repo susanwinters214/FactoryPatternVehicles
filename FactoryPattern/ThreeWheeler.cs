@@ -13,6 +13,7 @@ namespace FactoryPattern
         }
         public void Drive()
         {
+            ConsoleLogger.VehicleStartUpDialogue();
             Console.WriteLine("You got a 3 wheeler! Weird!");
         }
     }

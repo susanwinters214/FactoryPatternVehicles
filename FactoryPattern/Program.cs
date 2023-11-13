@@ -13,7 +13,7 @@ namespace FactoryPattern
 
             do
             {
-                Console.WriteLine("What type of vehicle do you want to make? Car or Motorcycle?");
+                Console.WriteLine("Enter the number of tires for the vehicle you want to create:");
                 input = int.TryParse(Console.ReadLine(), out numOfWheels);
 
             }

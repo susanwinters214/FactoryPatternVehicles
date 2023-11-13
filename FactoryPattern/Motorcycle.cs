@@ -18,7 +18,8 @@ namespace FactoryPattern
 
         public void Drive()
         {
-            Console.WriteLine($"Driving my {Color} motorcycle with {Tires} tires.");
+            ConsoleLogger.VehicleStartUpDialogue();
+            Console.WriteLine($"VRoom! Driving my {Color} motorcycle with {Tires} tires.");
         }
 
     }

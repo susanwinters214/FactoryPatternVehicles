@@ -3,3 +3,13 @@ C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\Facto
 C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
 C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
 C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\bin\Debug\net6.0\FactoryPattern.exe
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\bin\Debug\net6.0\FactoryPattern.deps.json
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\bin\Debug\net6.0\FactoryPattern.runtimeconfig.json
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\bin\Debug\net6.0\FactoryPattern.dll
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\bin\Debug\net6.0\FactoryPattern.pdb
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.dll
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\refint\FactoryPattern.dll
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
+C:\REPOS\TrueCoders\FactoryPatternVehicles\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll
